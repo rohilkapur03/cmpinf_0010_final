@@ -7,13 +7,18 @@ Submetric 1: Entertainment
   - proximity to parks, recreation, museum, theaters
   - data set for parks & recreations: [https://data.wprdc.org/dataset/parks](https://data.wprdc.org/dataset/allegheny-county-park-features)
   - data set for museums & theaters: https://data.wprdc.org/dataset/allegheny-county-assets 
+
+
 Submetric 2: Education
   - proximity to schools, libraries, educational institutions
   - data set for public instituions: https://data.wprdc.org/dataset/pittsburgh-public-school-locations
+
+
 Submetric 3: Commerce
   - proximity to shopping centers, restaruants, job oppurunties
   - data set: https://data.wprdc.org/dataset/allegheny-county-assets
-  - 
+
+
 
 Pre-Process Data: 
 - utilize pandas to import CSV files as dataframes 
