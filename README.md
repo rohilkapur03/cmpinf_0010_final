@@ -1,7 +1,7 @@
 # cmpinf_0010_final
 
 
-Metric for Determining Best Neighborhood: Amenities Score
+Metric for Determining Best Neighborhood: Neighborhood Atmosphere Score
 
 Submetric 1: Tree population 
   - amount of trees and greenery per neighborhood.
